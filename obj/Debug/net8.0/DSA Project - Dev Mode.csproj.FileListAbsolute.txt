@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\Data Structure project class works\DSA Project - Dev Mode\obj\Debug\net8.0\DSA Project - Dev Mode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Data Structure project class works\DSA Project - Dev Mode\obj\Debug\net8.0\DSA Project - Dev Mode.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Data Structure project class works\DSA Project - Dev Mode\obj\Debug\net8.0\DSA Project - Dev Mode.AssemblyInfo.cs
+C:\Users\hp\Desktop\Data Structure project class works\DSA Project - Dev Mode\obj\Debug\net8.0\DSA Project - Dev Mode.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Data Structure project class works\DSA Project - Dev Mode\bin\Debug\net8.0\DSA Project - Dev Mode.exe
+C:\Users\hp\Desktop\Data Structure project class works\DSA Project - Dev Mode\bin\Debug\net8.0\DSA Project - Dev Mode.deps.json
+C:\Users\hp\Desktop\Data Structure project class works\DSA Project - Dev Mode\bin\Debug\net8.0\DSA Project - Dev Mode.runtimeconfig.json
+C:\Users\hp\Desktop\Data Structure project class works\DSA Project - Dev Mode\bin\Debug\net8.0\DSA Project - Dev Mode.dll
+C:\Users\hp\Desktop\Data Structure project class works\DSA Project - Dev Mode\bin\Debug\net8.0\DSA Project - Dev Mode.pdb
+C:\Users\hp\Desktop\Data Structure project class works\DSA Project - Dev Mode\obj\Debug\net8.0\DSA Project - Dev Mode.dll
+C:\Users\hp\Desktop\Data Structure project class works\DSA Project - Dev Mode\obj\Debug\net8.0\refint\DSA Project - Dev Mode.dll
+C:\Users\hp\Desktop\Data Structure project class works\DSA Project - Dev Mode\obj\Debug\net8.0\DSA Project - Dev Mode.pdb
+C:\Users\hp\Desktop\Data Structure project class works\DSA Project - Dev Mode\obj\Debug\net8.0\DSA Project - Dev Mode.genruntimeconfig.cache
+C:\Users\hp\Desktop\Data Structure project class works\DSA Project - Dev Mode\obj\Debug\net8.0\ref\DSA Project - Dev Mode.dll
